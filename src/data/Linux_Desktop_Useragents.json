@@ -1,0 +1,79 @@
+[
+  {
+    "device": "Desktop",
+    "browser": "Chrome",
+    "os": "Linux",
+    "version": "128.0.0.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Linux",
+    "version": "129.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux i686; rv:129.0) Gecko/20100101 Firefox/129.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Linux",
+    "version": "129.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Ubuntu",
+    "version": "129.0",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:129.0) Gecko/20100101 Firefox/129.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Ubuntu",
+    "version": "129.0",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Fedora",
+    "version": "129.0",
+    "userAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Linux",
+    "version": "128.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux i686; rv:128.0) Gecko/20100101 Firefox/128.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Ubuntu",
+    "version": "128.0",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:128.0) Gecko/20100101 Firefox/128.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Ubuntu",
+    "version": "128.0",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Firefox",
+    "os": "Fedora",
+    "version": "128.0",
+    "userAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+  },
+  {
+    "device": "Desktop",
+    "browser": "Opera",
+    "os": "Linux",
+    "version": "113.0.0.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/113.0.0.0"
+  }
+]

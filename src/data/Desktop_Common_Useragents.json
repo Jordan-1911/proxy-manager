@@ -1,0 +1,142 @@
+[
+  {
+    "share": 33.33,
+    "browser": "Chrome",
+    "version": "127.0.0",
+    "os": "Mac OS X",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.3"
+  },
+  {
+    "share": 24.67,
+    "browser": "Chrome",
+    "version": "128.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.3"
+  },
+  {
+    "share": 15.75,
+    "browser": "Chrome",
+    "version": "127.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.3"
+  },
+  {
+    "share": 7.87,
+    "browser": "Edge",
+    "version": "128.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0."
+  },
+  {
+    "share": 5.77,
+    "browser": "Firefox",
+    "version": "129.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129."
+  },
+  {
+    "share": 2.1,
+    "browser": "Chrome",
+    "version": "109.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3"
+  },
+  {
+    "share": 1.57,
+    "browser": "Edge",
+    "version": "126.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0."
+  },
+  {
+    "share": 1.57,
+    "browser": "Opera",
+    "version": "112.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0."
+  },
+  {
+    "share": 1.05,
+    "browser": "Edge",
+    "version": "127.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0."
+  },
+  {
+    "share": 1.05,
+    "browser": "Edge",
+    "version": "124.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0."
+  },
+  {
+    "share": 0.52,
+    "browser": "Edge",
+    "version": "125.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0."
+  },
+  {
+    "share": 0.52,
+    "browser": "Firefox",
+    "version": "113.0",
+    "os": "Linux",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113."
+  },
+  {
+    "share": 0.52,
+    "browser": "Firefox",
+    "version": "129.0",
+    "os": "Ubuntu",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129."
+  },
+  {
+    "share": 0.52,
+    "browser": "Chrome",
+    "version": "128.0.0",
+    "os": "Linux",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.3"
+  },
+  {
+    "share": 0.52,
+    "browser": "Firefox",
+    "version": "115.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115."
+  },
+  {
+    "share": 0.52,
+    "browser": "Edge",
+    "version": "109.0.1518",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.14"
+  },
+  {
+    "share": 0.52,
+    "browser": "Edge",
+    "version": "109.0.1518",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.10"
+  },
+  {
+    "share": 0.52,
+    "browser": "Firefox",
+    "version": "128.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128."
+  },
+  {
+    "share": 0.52,
+    "browser": "Firefox",
+    "version": "115.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115."
+  },
+  {
+    "share": 0.52,
+    "browser": "Chrome",
+    "version": "121.0.0",
+    "os": "Windows",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3"
+  }
+]

@@ -24,3 +24,7 @@ yarn-error.log*
 
 # Environment variables
 .env
+
+# User defined
+create_react_doc.py
+generate_react_doc.md

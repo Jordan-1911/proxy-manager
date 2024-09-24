@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import NavBar from './components/NavBar';
-import AvailableProxies from './pages/AvailableProxies';
+import NavBar from './components/NavBar/NavBar';
+import AvailableProxies from './pages/AvailableProxies/AvailableProxies';
 import IPQualityScore from './pages/IPQualityScore';
-import UserAgent from './pages/UserAgent';
+import UserAgent from './components/UserAgent/UserAgentInfo';
 
 function App() {
   return (

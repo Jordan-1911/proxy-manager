@@ -1,0 +1,30 @@
+[
+    {
+      "device": "iPhone",
+      "browser": "Chrome Mobile iOS",
+      "os": "iOS",
+      "version": "128.0.6613.98",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/128.0.6613.98 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "device": "iPhone",
+      "browser": "Edge Mobile",
+      "os": "iOS",
+      "version": "128.2739.42",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 EdgiOS/128.2739.42 Mobile/15E148 Safari/605.1.15"
+    },
+    {
+      "device": "iPhone",
+      "browser": "Firefox iOS",
+      "os": "iOS",
+      "version": "129.0",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/129.0 Mobile/15E148 Safari/605.1.15"
+    },
+    {
+      "device": "iPhone",
+      "browser": "Mobile Safari",
+      "os": "iOS",
+      "version": "17.5",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"
+    }
+]

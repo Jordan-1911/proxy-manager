@@ -1,0 +1,31 @@
+.available-proxies-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  
+  .credentials-paper {
+    padding: 16px;
+  }
+  
+  .proxy-settings-paper {
+    padding: 16px;
+  }
+  
+  .messages-paper {
+    padding: 16px;
+    max-height: 200px;
+    overflow-y: auto;
+  }
+  
+  .status-indicator {
+    font-size: 24px;
+  }
+  
+  .status-indicator-active {
+    color: green;
+  }
+  
+  .status-indicator-inactive {
+    color: red;
+  }
